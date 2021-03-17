@@ -4,4 +4,5 @@
     <string name="gorjeta">Gorjeta</string>
     <string name="zero">€ 0</string>
     <string name="total">Total</string>
+    <string name="erro_valor">Digite um valor primeiro!</string>
 </resources>
