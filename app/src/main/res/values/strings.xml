@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tips Calculation</string>
+    <string name="digite_um_valor_ex_36_50">Digite um valor ex: 36.50</string>
+    <string name="gorjeta">Gorjeta</string>
+    <string name="zero">€ 0</string>
+    <string name="total">Total</string>
 </resources>
